@@ -1,0 +1,9 @@
+git add ("git add ." / "git add -A");
+
+git commit ("git commit -m[mensagem]");
+
+git push ("git push [...]");
+
+git status ("git status");
+
+git branch ("git branch [nome]");
