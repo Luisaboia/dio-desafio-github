@@ -2,10 +2,13 @@
 Este repositório será feito para guardar todas as informações e conhecimentos adquiridos durante o segundo bootcamp da Duzz, dentro da plataforma da Digital Innovation One (DIO)
 
 ## Desafio de Git/GutHub
-Concluído
+Finalizado
 
 ## HTML5
 Finalizado
 
 ## CSS3
-[Em Progresso]
+Finalizado
+
+## JavaScript ES6
+[Em progresso...]
