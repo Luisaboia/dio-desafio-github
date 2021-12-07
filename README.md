@@ -4,5 +4,8 @@ Este repositório será feito para guardar todas as informações e conhecimento
 ## Desafio de Git/GutHub
 Concluído
 
-## HTML5 e CSS3
-[Em progresso...]
+## HTML5
+Finalizado
+
+## CSS3
+[Em Progresso]
