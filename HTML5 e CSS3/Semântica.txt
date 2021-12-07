@@ -1,0 +1,6 @@
+<section> - Sessão genérica de conteúdo;
+<header> - Cabeçário da página;
+<article> - Conteúdo relevante;
+<aside> - Conteúdo relacionado ao principal (Biografia etc.);
+<footer> - Rodapé (de algo);
+<h1-h6> - Importância de um título;
