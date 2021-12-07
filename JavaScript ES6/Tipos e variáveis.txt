@@ -1,8 +1,8 @@
-var: N�o respeita escopo de bloco, apenas o escopo de fun��o e o escopo global;
+var: Não respeita escopo de bloco, apenas o escopo de função e o escopo global;
 
 let: Respeita escopo de bloco;
 
-const: Respeita escopo de bloco e n�o pode reatribuir o usu�rio;
+const: Respeita escopo de bloco e não pode reatribuir o usuário;
 
 =====
 
@@ -13,7 +13,7 @@ const: Respeita escopo de bloco e n�o pode reatribuir o usu�rio;
 =====
 
 function x(){
-(Escopo de Fun��o)
+(Escopo de Função)
 }
 
 =====
