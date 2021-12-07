@@ -1,0 +1,8 @@
+Box Model:
+
+margin > border > padding > content
+
+Margin = Espaçamento entre elementos;
+Border = Circula o Padding e o Conteúdo;
+Padding = Espaçamento entre borda e conteúdo;
+Conteúdo = Conteúdo

@@ -1,0 +1,4 @@
+ID e Class = Representam qualquer tipo de elemento
+
+ID -> # (Uma vez na página)
+Class -> .
